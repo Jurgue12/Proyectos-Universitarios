@@ -33,7 +33,7 @@ Sistema de gestión de citas para un barbero.
     Frontend: Angular
     Base de datos: SQL Server
 
-Repositorio: https://github.com/kialexa/Aris_barber_shop.git 
+Repositorio: https://github.com/Jurgue12/Aris-Barber-Shop.git 
 
 # ================================
 # 🏡 Monte Los Olivos
